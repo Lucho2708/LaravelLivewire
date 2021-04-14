@@ -1,4 +1,5 @@
 <h1>Listado de Posts</h1>
+<br>
 <table class="table table-striped">
     <thead>
     <tr>
